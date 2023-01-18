@@ -14,7 +14,7 @@
 
 body {
     background-color: r;
-    background-image: url("/assets/Imagens/bolha-background.png");
+    background-image: url("../../assets/Imagens/bolha-background.png");
     background-repeat: no-repeat;
     background-position: left center;
 }

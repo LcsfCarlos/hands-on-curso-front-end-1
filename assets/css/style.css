@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2? family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
 
 /* Components */
+<<<<<<< HEAD
 @import "/assets/css/style.css";
 @import "/assets/css/footer.css";
 @import "/assets/css/header.css";
@@ -10,3 +11,12 @@
 @import "/assets/css/responsive-bakgrond.css";
 @import "/assets/css/responsive-elements.css";
 @import "/assets/css/bootstrap.css";
+=======
+@import "../../assets/css/header.css";
+@import "../../assets/css/bootstrap.css";
+@import "../../assets/css/buttons.css";
+@import "../../assets/css/main.css";
+@import "../../assets/css/footer.css";
+@import "../../assets/css/responsive-background.css";
+@import "../../assets/css/responsive-elements.css";
+>>>>>>> 91bd1663f9e713387f7d5512e3aa9a4ac4a3d3e6
